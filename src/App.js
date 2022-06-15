@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./app.css";
+import "./styles/App.css";
 import NavigationBar from "./components/NavigationBar";
 import { AppProvider } from "./context/AppContext";
 import UploadScreen from "./components/UploadScreen";
